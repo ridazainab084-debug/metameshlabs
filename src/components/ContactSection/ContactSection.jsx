@@ -5,7 +5,7 @@ import instagram from "../../assets/instagram.png";
 import contactImage from "../../assets/Contect Us.jpg";
 
 const ContactSection = () => {
-  const phoneNumber = "+971566550121";
+  const phoneNumber = "+971502621062‬";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
     "Hello, I'm interested in your services. Can you provide more information?"
   )}`;
